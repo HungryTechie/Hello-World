@@ -6,3 +6,4 @@ What am I doing
 
 # Contrib
 * [hvze (haze)](https://github.com/hvze) [Is my inspiration]
+* [Hungry Techie](https://github.com/HungryTechie)[ is da best]
